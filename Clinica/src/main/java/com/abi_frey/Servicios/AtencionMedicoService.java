@@ -1,9 +1,9 @@
-package com.tomas_grau.Servicios;
+package com.abi_frey.Servicios;
 
-import com.tomas_grau.Dao.MedicoDao;
-import com.tomas_grau.Dao.RecetaDao;
-import com.tomas_grau.Entidades.Receta;
-import com.tomas_grau.Entidades.Turno;
+import com.abi_frey.Dao.MedicoDao;
+import com.abi_frey.Dao.RecetaDao;
+import com.abi_frey.Entidades.Receta;
+import com.abi_frey.Entidades.Turno;
 
 import java.util.ArrayList;
 import java.util.List;

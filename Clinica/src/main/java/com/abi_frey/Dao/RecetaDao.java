@@ -1,7 +1,7 @@
-package com.tomas_grau.Dao;
+package com.abi_frey.Dao;
 
-import com.tomas_grau.Entidades.Medico;
-import com.tomas_grau.Entidades.Receta;
+import com.abi_frey.Entidades.Medico;
+import com.abi_frey.Entidades.Receta;
 
 import java.util.HashMap;
 

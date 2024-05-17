@@ -1,4 +1,4 @@
-package com.tomas_grau.Servicios;
+package com.abi_frey.Servicios;
 
 public class GestionFarmaciaService {
 }

@@ -1,4 +1,4 @@
-package com.tomas_grau.Entidades;
+package com.abi_frey.Entidades;
 
 public class Paciente {
 
